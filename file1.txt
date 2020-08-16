@@ -1,9 +1,0 @@
-<html>
-<body>
-<title>
-hi this is lokesh how are you all?
-all you guys are doing  good
-hopes everything goes good 
-</title>
-</body>
-</html>
